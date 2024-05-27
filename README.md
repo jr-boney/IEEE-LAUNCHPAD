@@ -1,153 +1,60 @@
-# IEEE LAUNCHPAD Job Fair
+# Aswin krishna
 
+### About Me
 
+> I am UI/UX designer and Front-end devloper who is currently working on becoming an full-stack devloper who is passionate to code website.Have done cources on FreecodeCamp,Courcera etc..Technologies that i am good with are Figma,Javascript,React,Bootstrap,Adobe XD,Netlify etc...I am currently learning Back-end devlopment with a goal of becoming a Fullstack devloper (MERN stack).
 
 
+## Portfolio Highlights
 
+### My Projects
 
+| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
+|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
+| **Music Player APP**  | Used API intergration DOM Manipulation etc                                            | [Hosted Link 1](https://jr-boney.github.io/Music-Player/)    | [Repo Link 1](https://github.com/jr-boney/Music-Player)             |
+| **Link Saver Chrome Extension**  | It can save multiple Links and also save to local memory to prevent data loss                                            | [Hosted Link 2](https://jr-boney.github.io/Link-saver-chrome-extension/)    | [Repo Link 2](https://github.com/jr-boney/Link-saver-chrome-extension)             |
+| **E-commerce Store**  | Designed E-commerce Store Usinf Figma                                              | [Prototype Link](https://www.figma.com/proto/CdIff1UCo3ECbe2ugrEZXk/google-project-hi-fi?node-id=1-4&t=acaq3kTezZ52N8BP-1&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=1%3A4)    | [Repo Link 1](https://www.figma.com/design/CdIff1UCo3ECbe2ugrEZXk/google-project-hi-fi?node-id=0%3A1&t=hagJHAr5FgE1iBpl-1)             |
+| **Carlos App**  | App for Carlos to Sell His products                                             | [Prototype Link](https://www.figma.com/proto/RdRgdORgsLWDeorIfawk3N/First-WIREFRAME?node-id=4234-531&t=98FGujNU2zADtk8i-1&scaling=scale-down&page-id=243%3A1&starting-point-node-id=4234%3A531)    | [Repo Link 2](https://www.figma.com/design/RdRgdORgsLWDeorIfawk3N/First-WIREFRAME?node-id=243%3A1&t=hagJHAr5FgE1iBpl-1)             |
+| **JavaScript projects**  | Here is a bunch of projects that i have done                                             |    | [Repo Link 1](https://github.com/jr-boney/HTML-CSS-JS-projects)             |
+| **React Projects**  | Link to som of the React projects that i have done                                            |     | [Repo Link 2](https://github.com/jr-boney/React-Projects)             |
+#### Leadership and Influence:
 
-![Frame3](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/33c8ad32-fb7e-4a84-8c05-054c697904fc)
+- From Struggling to study programming to finally get in a flow and having a Confidence to do anything by practise and also helping my Fellow class mates to know more about programming and where to start it.In a short period of time i think i have acheived remarkable progress.
 
+#### Networking:
 
+- I have drastically connected with many devlopers and designers through reddit and also through internsip.By constantly connecting with them also replaying to anyone who want guidance i am open to it.
 
+#### Career Plan:
 
+- I ma planning on Becoming an fullstack devloper with UI/UX experience which result in remarkable result wherather in designing or building the APP or Website
 
+#### Thoughts on Kerala's Tech Ecosystem:
 
+- Kerala Will have drastic growth in my opinin Many companies are giving Internship So that more Number of students can Get a taste of what they will do before graduating and help them to fuel their passion which help the tech community and also engineering curriculm under KTU is changing which provide final year purely to do internships so it will definitly help
 
-<div align="center">
-Welcome to the LAUNCHPAD Job Fair, an opportunity to secure your spotlight and connect with potential employers through karma points! This event is designed to facilitate meaningful interactions between talented individuals like yourself and companies seeking top-tier talent.
-</div>
+#### History of Open Source Contributions:
 
-#
+- I have not Yet connitributed to any Open source project now i am in a process of upskilling myself after gaining confidence i am looking forward to Contribute
 
+#### History of Community Engagement:
 
+-  I am Active participant in G-tech Mulern community and also developersindia community in reddit
+#### Highly Visible Technical Content:
 
+- I have published a Journal on Autonomus wheel chair on enhanced ability on IRJMETS journal and i have created a Blog on the Harmful effects on lithium Ion battery in LinkedIn
 
-<div align="center">
+#### Highly Used Software Tools:
 
+- Figma,React,Netlify,Github,Git,Node.js,VScode,pycharm
 
+#### Competitive Website Profiles:
 
+- [HackerRank](https://www.hackerrank.com/profile/krishnaaswin415)
+- [FREECODECAMP](https://www.freecodecamp.org/Aswin_krishna)
 
-# How to Participate
 
-## Step 1:
 
-
-
-<!-- <img width="428" alt="Screenshot 2023-10-01 at 8 37 38 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/8f82a51b-a703-4de2-a714-2e6d876dea83"> -->
-<img width="432" alt="Screenshot 2024-01-01 at 5 48 28 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/27196322-f99f-4812-8241-a1fcb07821d0">
-
-
-
-### Join the Gtech Mulearn Discord Server by registering [here](https://app.mulearn.org/register).
-#### [Onboarding Video(English)](https://www.youtube.com/watch?v=Pjpms7b0mAI) | [Onboarding Video(Malayalam)](https://www.youtube.com/watch?v=qVj_5Pga3XY)
-
-#
-
-## Step 2:
-
-### follow the onboarding workflow. Connect your Discord account during this process to obtain your MUID (Mulearn User ID).
-
-![image](https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/7c534dc6-0e4f-43ae-b8d6-10a2c3283a35)
-
-</div>
-
-<div align="center">
-
-## Step 3:
-
-</div>
-
-
-#### 🛠️ Craft Your Digital Identity!
-
-Ready to carve out your space in the coding cosmos? It's time to showcase your unique coding persona. Follow the neon-lit path to create your portfolio in the `/profile` directory by following these instructions:
-
-#### 🍴 Fork It!
-
-Start by forking [this repository](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/fork) to your own GitHub realm.
-
-#### 📄 Name Your File!
-
-Craft a new markdown file inside the `/profiles` folder. Name it using your MUID (Refer Step 2 on on how to get MUID). It's like your digital signature!
-
-#### ✍️ Fill It Out!
-
-Use the provided template to fill out your details.[TEMPLATE.md](./TEMPLATE.md)
-
-#### 🚀 Pull It!
-
-Once you're ready, create a pull request targeting the main branch. Let the world see your brilliance!
-
-> [!TIP]
-> ### Need a guiding star? Check out [example@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for the perfect template to light your way.
-
-
-
-> Embark on this step with passion and precision.
-> Your portfolio is the beacon that will guide others to recognize your coding prowess! ✨
-
-
-
-
-
-
-#
-
-
-<div align="center">
-
-## 🚀 Step 4: Dive into the Digital Arena!
-
-### Welcome to the heart of our **LAUNCHPAD**
-
-> The Discord server's *LAUNCHPAD* section. Here's your guide to navigating the channels:
-
-
-<img width="233" alt="Screenshot 2024-04-12 at 8 34 44 AM" src="https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/5155afee-9d3d-4171-9ae6-38ec7110be31">
-
-
-
-</div>
-
-<div align="left">
-
-#### 📢 #ieee-launchpad-announcment 
-
-- Purpose: Your primary source of truth! Get real-time updates and tasks as the challenge unfolds.
-- Tip: Stay alert! You wouldn't want to miss out on any crucial info.
-
-#### 🤖 #ieee-lp-introduction 
-- Purpose: Roll out the red carpet! Introduce yourself to fellow coders.
-- Action: Drop a short bio and the GitHub repo link of your profile for the IEEE Launchpad.
-
-#### 🚀 #ieee-lp-task-dropbox
-
-- Purpose: The battleground where you showcase your skills.
-- Action: Submit your completed tasks and let the world witness your coding prowess.
-
-#### 🎙️ #ieee-launchpad-officehours
-
-- Purpose: Got questions? We've got answers!
-- Timing: Tune in every day from 8 PM to 9 PM.
-- Tip: Collaboration is key. Engage, discuss, and get insights directly from the organizers.
-
-
-</div>
-
-
-</div>
-
-#
-
-
-:memo: **Note:** That's it! You're all set to participate in **IEEE LAUNCHPAD Job Fair**. Keep an eye on the announcements channel for any additional instructions or updates. If you have any questions or need assistance, please feel free to ask on the Discord server.
-
-#
-
-> [!IMPORTANT]  
-> If you're new to GitHub and editing markdown, you can learn more by following this [Introduction to Github](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/) and [Introduction to Markdown](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/)
-
-
-
+>
+>>  [aswinkrishna-2@mulearn.md](https://app.mulearn.org/profile/aswinkrishna-2@mulearn)
 ---
